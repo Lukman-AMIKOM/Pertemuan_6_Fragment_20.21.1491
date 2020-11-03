@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Pertemuan 6: Fragment (20.21.1491)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="halo_fragment_home">Halo, ini Fragment Home.</string>
+    <string name="link_fragment_kategori">Link ke Fragment Kategori</string>
+    <string name="halo_fragment_category">Halo, ini Fragment Category</string>
+    <string name="link_fragment_sub_category">Link ke Fragment Sub Category</string>
+    <string name="category_name">Nama Kategori</string>
+    <string name="description">Deskripsi</string>
+    <string name="my_fragment_demo">MY FRAGMENT DEMO</string>
+    <string name="tic_tac_4x4">Tic-Tac 4x4</string>
+    <string name="result">Result</string>
+    <string name="play_again">Play Again</string>
+    <string name="result_draw">It\'s a draw.</string>
+    <string name="result_blue_wins">BLUE Wins!</string>
+    <string name="result_red_wins">RED Wins!</string>
+    <string name="about">About</string>
+    <string name="lukman_hakim">Lukman Hakim</string>
+    <string name="email">lukman.hakim@students.amikom.ac.id</string>
+    <string name="bachelor_of_informatics">Bachelor of Informatics</string>
+    <string name="nim">20.21.1491</string>
+    <string name="university">University of AMIKOM Yogyakarta</string>
+</resources>

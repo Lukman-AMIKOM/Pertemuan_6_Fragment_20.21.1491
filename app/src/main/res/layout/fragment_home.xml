@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".HomeFragment">
+    
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:gravity="center_horizontal"
+        android:text="@string/halo_fragment_home" />
+    
+    <Button
+        android:id="@+id/btn_category"
+        style="@style/HomeFragmentButtons.Custom"
+        android:background="@drawable/ripple_button_category"
+        android:text="@string/link_fragment_kategori" />
+    
+    <Button
+        android:id="@+id/btn_fragment_demo"
+        style="@style/HomeFragmentButtons.Custom"
+        android:background="@drawable/ripple_button_fragment_demo"
+        android:text="@string/my_fragment_demo" />
+</LinearLayout>
